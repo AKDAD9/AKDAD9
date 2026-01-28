@@ -42,33 +42,95 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/akdadulanjana" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"
-       height="50" width="50"/>
-<a href="[YOUR_INSTAGRAM_LINK_HERE](https://www.instagram.com/akda_dulanjana?igsh=d3VmaDd1eWN3aTdw&utm_source=qr)" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-       height="50" width="50"/>
-<a href="mailto:akdadulanjana1999@icloud.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-       height="50" width="50"/>
-</a>
+<h3 align="center">🤝 Connect with me:</h3>
 
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/akdadulanjana" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"
+         height="50" width="50"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/akda_dulanjana?igsh=d3VmaDd1eWN3aTdw&utm_source=qr" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+         height="50" width="50"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png"
+         height="50" width="50"/>
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
+         height="50" width="50"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:akdadulanjana1999@icloud.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         height="50" width="50"/>
+  </a>
 </p>
+
 
 ---
 
-<h3 align="center">Languages & Tools:</h3>
+<h3 align="center">🧠 Languages & Tools</h3>
+
 <p align="center">
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg" width="50" height="50"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/>
-<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="50" height="50"/>
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="Python" width="50" height="50"/>
+  </a>
+
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
+         alt="MATLAB" width="50" height="50"/>
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"
+         alt="Excel" width="50" height="50"/>
+  </a>
+
+  <!-- VBA -->
+  <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/visual-basic.png"
+         alt="VBA" width="50" height="50"/>
+  </a>
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png"
+         alt="Power BI" width="50" height="50"/>
+  </a>
+
+  <!-- SPSS -->
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
+    <img src="https://img.icons8.com/color/48/ibm.png"
+         alt="SPSS" width="50" height="50"/>
+  </a>
 
 </p>
 
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AKDAD9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AKDAD9" /></a><a href="https://ko-fi.com/AKDAD9"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AKDAD9" /></a></p><br><br>
+
+
+
+
+
