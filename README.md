@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=akdadulanjana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<h1 align="left">About Me</h1>
+👋 Hi, I’m AKDA Dulanjana, an undergraduate student in Financial Mathematics and Industrial Statistics at the University of Ruhuna, Sri Lanka. I’m passionate about data analysis, statistics, operations research, and financial analytics, with a strong interest in solving real-world problems using data-driven approaches. I enjoy working with R, Python, MATLAB, Excel, Minitab, and SPSS for statistical modeling, optimization, and visualization. My projects include heart disease prediction using logistic regression, quality control applications (X-bar, CUSUM, EWMA), and optimization models for construction cost and export planning. I’m continuously learning and building practical skills to grow as a Data Analyst / Business Analyst.
+
+<h1 align="left"></h1>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
