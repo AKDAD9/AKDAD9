@@ -69,3 +69,6 @@
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="50" height="50"/>
 
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/AKDAD9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AKDAD9" /></a><a href="https://ko-fi.com/AKDAD9"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AKDAD9" /></a></p><br><br>
